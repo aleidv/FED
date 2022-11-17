@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   rood
 
   #### Je focus:
-  responsive
+  ...
  
 </details>
 
@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://www.naturalis.nl | https://the-goonies.webflow.io/#plot [?????]
+  https://mario.nintendo.com
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="welkomstpagina">
+  <img src="readme-images/home_pagina.jpg" width="375px" alt="welkomstpagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="tickets pagina">
+  <img src="readme-images/characters_pagina.jpg" width="375px" alt="tickets pagina">
  
 </details>
 
