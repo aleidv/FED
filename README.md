@@ -63,20 +63,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   Tijdens het onderzoek m.b.t. de screenreader kwam ik er achter dat de screenreader al snel voor chaos en
   paniek zorgt. M.b.t. mijn website kwam ik achter de volgende bevindingen:
-  > Op Safari werkt de combinatie van tab en voice over met mijn website niet. Op Google Chrome wel
-  > De links zijn er lang
-  > De links laten ook data's zien die niet relevant zijn
+  > Op Safari werkt de combinatie van tab en voice over met mijn website niet. Op Google Chrome wel.
+  > De links zijn er lang.
+  > De links laten ook data's zien die niet relevant zijn.
   > De screenreader benoemd de inhoud via de tab of via de muis goed.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-  > De links relevanter en korter maken
+  > De links relevanter en korter maken.
 
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
   
   Tijdens het onderzoek m.b.t. muis en toetsenbord kwam ik achter de volgende bevindingen:
-  > De focus state met tab werkt heel erg goed. De website maakt gebruik van een zwarte en gele border waardoor er een goed contrast ontstaat
+  > De focus state met tab werkt heel erg goed. De website maakt gebruik van een zwarte en gele border waardoor er een goed contrast ontstaat.
   > Het navigeren via de tab op mijn website werkt goed. Het gaat van links naar rechts, van boven naar onder, en slaat niets belangrijks over.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
@@ -87,15 +87,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Hier korte omschrijving (met indien nodig afbeeldingen)
   
   Tijdens het onderzoek m.b.t. motoriek kwam ik achter de volgende bevindingen:
-  > Met twee vingers die niet goed werken (elastiekjes) kwam ik er achter dat je een telefoon alsnog gemakkelijk kan bedienen
-  > Een toetsenbord en vooral een trackpad bedienen werkt net wat vervelender
-  > Toch kun je bij de meeste apparaten er wel omheen werken
-  > Wanneer je arm shocked (shock apparaat) kan het erg lastig zijn om met een toetsenbord te werken
-  > Priegel elementjes zijnd dan lastig om mee te werken
+  > Met twee vingers die niet goed werken (elastiekjes) kwam ik er achter dat je een telefoon alsnog gemakkelijk kan bedienen.
+  > Een toetsenbord en vooral een trackpad bedienen werkt net wat vervelender.
+  > Toch kun je bij de meeste apparaten er wel omheen werken.
+  > Wanneer je arm shocked (shock apparaat) kan het erg lastig zijn om met een toetsenbord te werken.
+  > Priegel elementjes zijnd dan lastig om mee te werken.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-  > Er zou gekeken kunnen worden naar een breder assortiment aan gestures voor trackpad om het navigeren gemakkelijker te maken
-  > Knoppen kunnen groter gemaakt worden zodat als je arm of vinger alle kanten op gaat het makkelijker wordt om er op te klikken
+  > Er zou gekeken kunnen worden naar een breder assortiment aan gestures voor trackpad om het navigeren gemakkelijker te maken.
+  > Knoppen kunnen groter gemaakt worden zodat als je arm of vinger alle kanten op gaat het makkelijker wordt om er op te klikken.
   
 
 
@@ -103,7 +103,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Hier korte omschrijving (met indien nodig afbeeldingen)
   
   Tijdens het onderzoek m.b.t. visual kwam ik achter de volgende bevindingen:
-  > Met de vlekkerige bril: door de velle kleuren combinatie van mijn website kon ik de inhoud nog goed zien
+  > Met de vlekkerige bril: door de velle kleuren combinatie van mijn website kon ik de inhoud nog goed zien.
   > Met de kleurenblind bril: er worden veel kleuren op de website getoond, met de bril op worden de kleuren minder maar er is nog steeds veel onderscheid te zien.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
