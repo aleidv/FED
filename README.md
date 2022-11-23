@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Aleid Vliegers
 
   #### Je startniveau:
-  rood
+  Rood
 
   #### Je focus:
-  ...
+  Surface Plane
  
 </details>
 
