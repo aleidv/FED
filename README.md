@@ -141,26 +141,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Het begrijpen van de code vind ik goed gaan, maar het toepassen gaat lastiger dan gedacht. 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Noah           | Isa         | Aleid          | Sam                    |
+  | ---            | ---         | ---            | ---                    |
+  | Grid of Flex   | Z-index     | Position       | Position afb + button  |
+  | Schalen        | Grid        | Button:hover   | ...                    |
+  | Nav overlay    | ...         | Button fout    | ...                    |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Position veranderen naar Flexbox en margin negatief.
+  - Onzichtbare border toegevoegd
+  - Foutmeldingen van de <button> opgelost
 
 </details>
 
