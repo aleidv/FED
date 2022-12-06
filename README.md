@@ -61,7 +61,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
   
-  Tijdens het onderzoek m.b.t. de screenreader kwam ik er achter dat de screenreader al snel voor chaos en
+  > Tijdens het onderzoek m.b.t. de screenreader kwam ik er achter dat de screenreader al snel voor chaos en
   paniek zorgt. M.b.t. mijn website kwam ik achter de volgende bevindingen:
   > Op Safari werkt de combinatie van tab en voice over met mijn website niet. Op Google Chrome wel.
   > De links zijn er lang.
@@ -75,7 +75,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
   
-  Tijdens het onderzoek m.b.t. muis en toetsenbord kwam ik achter de volgende bevindingen:
+  >Tijdens het onderzoek m.b.t. muis en toetsenbord kwam ik achter de volgende bevindingen:
   > De focus state met tab werkt heel erg goed. De website maakt gebruik van een zwarte en gele border waardoor er een goed contrast ontstaat.
   > Het navigeren via de tab op mijn website werkt goed. Het gaat van links naar rechts, van boven naar onder, en slaat niets belangrijks over.
 
@@ -86,7 +86,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
   
-  Tijdens het onderzoek m.b.t. motoriek kwam ik achter de volgende bevindingen:
+  > Tijdens het onderzoek m.b.t. motoriek kwam ik achter de volgende bevindingen:
   > Met twee vingers die niet goed werken (elastiekjes) kwam ik er achter dat je een telefoon alsnog gemakkelijk kan bedienen.
   > Een toetsenbord en vooral een trackpad bedienen werkt net wat vervelender.
   > Toch kun je bij de meeste apparaten er wel omheen werken.
