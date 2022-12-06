@@ -91,7 +91,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   > Een toetsenbord en vooral een trackpad bedienen werkt net wat vervelender.
   > Toch kun je bij de meeste apparaten er wel omheen werken.
   > Wanneer je arm shocked (shock apparaat) kan het erg lastig zijn om met een toetsenbord te werken.
-  > Priegel elementjes zijnd dan lastig om mee te werken.
+  > Priegel elementjes zijn dan lastig om mee te werken.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
   > Er zou gekeken kunnen worden naar een breder assortiment aan gestures voor trackpad om het navigeren gemakkelijker te maken.
