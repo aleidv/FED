@@ -141,25 +141,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  Het begrijpen van de code vind ik goed gaan, maar het toepassen gaat lastiger dan gedacht. 
+  > Het begrijpen van de code vind ik goed gaan, maar het toepassen gaat lastiger dan gedacht. 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Noah           | Isa         | Aleid          | Sam                    |
-  | ---            | ---         | ---            | ---                    |
-  | Grid of Flex   | Z-index     | Position       | Position afb + button  |
-  | Schalen        | Grid        | Button:hover   | ...                    |
-  | Nav overlay    | ...         | Button fout    | ...                    |
+  > | Noah           | Isa         | Aleid          | Sam                    |
+  > | ---            | ---         | ---            | ---                    |
+  > | Grid of Flex   | Z-index     | Position       | Position afb + button  |
+  > | Schalen        | Grid        | Button:hover   |                        |
+  > | Nav overlay    |             | Button fout    |                        |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - Position veranderen naar Flexbox en margin negatief.
-  - Onzichtbare border toegevoegd
-  - Foutmeldingen van de <button> opgelost
+  
+  > Position veranderen naar Flexbox en margin negatief.
+  > Onzichtbare border toegevoegd
+  > Foutmeldingen van de <button> opgelost
 
 </details>
 
@@ -179,20 +179,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  > | Oriana         | Minke              | Aleid    
+  > | ---            | ---                | ---          
+  > | dit bespreken  | en dit             | Een img herhalen als achtergrond   
+  > | en dat ook nog | dit als er tijd is | Checkbox  
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  > Snel gelukt om een afbeelding op de achtergond te laten herhalen.
+  > Checkbox is ook gelukt zonder label nog.
 
 </details>
 
@@ -302,8 +299,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  > https://fonts.google.com/
+  > https://www.w3schools.com/tags/att_input_type_checkbox.asp
 
 </details>
