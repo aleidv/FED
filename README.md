@@ -61,8 +61,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
   
-  > Tijdens het onderzoek m.b.t. de screenreader kwam ik er achter dat de screenreader al snel voor chaos en
-  paniek zorgt. M.b.t. mijn website kwam ik achter de volgende bevindingen:
+  > Tijdens het onderzoek m.b.t. de screenreader kwam ik achter de volgende bevindingen:
+  > Dat de screenreader al snel voor chaos en paniek zorgt. 
   > Op Safari werkt de combinatie van tab en voice over met mijn website niet. Op Google Chrome wel.
   > De links zijn er lang.
   > De links laten ook data's zien die niet relevant zijn.
@@ -75,7 +75,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
   
-  >Tijdens het onderzoek m.b.t. muis en toetsenbord kwam ik achter de volgende bevindingen:
+  > Tijdens het onderzoek m.b.t. muis en toetsenbord kwam ik achter de volgende bevindingen:
   > De focus state met tab werkt heel erg goed. De website maakt gebruik van een zwarte en gele border waardoor er een goed contrast ontstaat.
   > Het navigeren via de tab op mijn website werkt goed. Het gaat van links naar rechts, van boven naar onder, en slaat niets belangrijks over.
 
@@ -102,7 +102,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
   
-  Tijdens het onderzoek m.b.t. visual kwam ik achter de volgende bevindingen:
+  >Tijdens het onderzoek m.b.t. visual kwam ik achter de volgende bevindingen:
   > Met de vlekkerige bril: door de velle kleuren combinatie van mijn website kon ik de inhoud nog goed zien.
   > Met de kleurenblind bril: er worden veel kleuren op de website getoond, met de bril op worden de kleuren minder maar er is nog steeds veel onderscheid te zien.
 
@@ -205,26 +205,44 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  
+  > Tijdens het onderzoek m.b.t. de screenreader kwam ik achter de volgende bevindingen:
+  > Op Safari werkt de combinatie van tab en voice over met mijn website niet. Op Google Chrome wel.
+  > De linkjes zijn kort en bondig
+  > De links laten geen inrelevante inforamtie zien
+  > De screenreader benoemd de inhoud via de tab of via de muis goed.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  
+  > Tijdens het onderzoek m.b.t. muis en toetsenbord kwam ik achter de volgende bevindingen:
+  paniek zorgt. M.b.t. mijn website kwam ik achter de volgende bevindingen:
+  > Met het toestenbord de website bedienen d.m.v. spatie balk en enter werkt goed. De linkjes werken en de checkbox kan worden aangechecked.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  
+  > Tijdens het onderzoek m.b.t. motoriek kwam ik achter de volgende bevindingen:
+  > Er is ruimte om priegel elementjes aan te klikken.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  
+  > Tijdens het onderzoek m.b.t. visual kwam ik achter de volgende bevindingen: 
+  > Buttons en kleuren worden goed herkend met verschillende brillen op.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
