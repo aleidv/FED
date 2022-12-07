@@ -205,8 +205,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
   
