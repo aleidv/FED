@@ -1,19 +1,115 @@
+<!-- HTML Document -->
+<!-- Dit is een kopie van de website van https://mario.nintendo.com -->
+
 <!doctype html>
 <html lang="nl">
 	
 <head>
 	<meta charset="UTF-8">
-	<meta name="author" content="jouw naam">
+	<meta name="author" content="aleid-vliegers">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
-	<title>Howdy FED2223</title>
+	<title>Mario Bros Nintendo</title>
 	
 	<link href="styles/style.css" rel="stylesheet">
-	<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+	<link rel="icon" type="image/png" href="images/favicon.png">
 </head>
 
 <body>
-	<h1>Howdy FED2223</h1>
+	<header>
+		<nav>
+			<ul>
+				<li>
+					<a href="index.html"><img src="images/nintendo-logo.svg" alt="nintendo logo"></a>
+				</li>
+				<li>
+					<a><img src="images/user-icon2.png" alt="gebruikers icon"><span>Log in / Sign up</span></a>
+				</li>
+			</ul>
+		</nav>
+		<nav>
+			<label for="check">Reduced Motion</label><input type="checkbox" id="check"> 
+			<!-- Bron: https://www.w3schools.com/tags/att_input_type_checkbox.asp -->
+			<img src="images/switch.svg" alt="switch afbeelding">
+			<!-- <a href="characters.html">Menu</a> -->
+			<button>Menu</button>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="characters.html">Mario History</a></li>
+				<li><a href="characters.html">Characters</a></li>
+				<li><a href="characters.html">News</a></li>
+				<li><img src="images/mario-head.png" alt="mario image"></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main class="index">
+		<section>
+			<img src="images/mpss.png" alt="mario party image">		
+			<img src="images/mario-party.png" alt="mario image">
+			<a href="characters.html">Check out the game<span>></span></a>
+			<img src="images/bg-straight-1.png" alt="achtergrond aanvulling image">
+		</section>
+		<section>
+			<h1>Mario in the news</h1>
+			<ul>
+				<li>
+					<img src="images/index-cards-1.avif" alt="mario in the news">
+					<time>17-11-2022</time>
+					<p>Have a wild time with the Animal Tour, happening now</p>
+				</li>
+				<li>
+					<img src="images/index-cards-2.avif" alt="mario in the news">
+					<time>19-10-2022</time>
+					<p>Dress up your Mii and get ghastly with the Halloween Tour</p>
+				</li>
+				<li>
+					<img src="images/index-cards-3.avif" alt="mario in the news">
+					<time>10-8-2022</time>
+					<p>Race the new Sky-High Sundae course in the Mario Kart Tour and Mario Kart 8 Deluxe games today!</p>
+				</li>
+			</ul>
+			<a href="characters.html">See more news<span>></span></a>
+			<img src="images/bg-ribbel-1.png" alt="achtergrond aanvulling image">
+		</section>
+		<section>
+			<img src="images/bg-stipjes.png" alt="achtergrond aanvulling image">
+		</section>
+	</main>
+
+	<footer>
+		<a href="characters.html">Customer support<span>></span></a>
+		<h2>Follow Nintendo:</h2>
+		<ul>
+			<li>
+				<img src="images/logo-facebook.svg" alt="facebook icon">
+			</li>
+			<li>
+				<img src="images/logo-twitter.svg" alt="twitter icon">
+			</li>
+			<li>
+				<img src="images/logo-youtube.svg" alt="youtube icon">
+			</li>
+			<li>
+				<img src="images/logo-instagram.svg" alt="instagram icon">
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<img src="images/en-e-e10.svg" alt="everyone to everyone 10+">
+			</li>
+			<li>
+				<img src="images/logo-esrb-privacy-certified.svg" alt="privacy certified image">
+			</li>
+		</ul>
+		<ul>
+			<li>Privacy Policy</li>
+			<li>Terms of Use</li>
+			<li>Cookie Preferences</li>
+			<li>Interest-Based Ads</li>
+			<li>Game trademarks and copyrights are properties of their respective owners. Nintendo properties are trademarks of Nintendo. © 2020 Nintendo.</li>
+		</ul>
+	</footer>
 
 	<script defer src="scripts/script.js"></script>
 </body>
