@@ -44,21 +44,19 @@ button, summary {
 	/* animaties */
 	--jump-animation: jump 1.5s ease;
 	--mario-ease: mario-ease 1.5s ease;
+	--character-bounce: character-bounce 1.5s ease;
 
 }
 
-/* REDUCED MOTION */
-/* @media  (prefers-reduced-motion:reduce) {
-	:root {
-	--jump-animation: none;
-	--mario-ease: none;
-	}
-} */
 
+/* REDUCED MOTION */
 :root:has(#check:checked) {
 	--jump-animation: none;
 	--mario-ease: none;
+	--character-bounce: none;
 }
+/* Bron: Ymaro Blue */
+
 
 /* @media (prefers-color-scheme:dark) { 
 	main.index {
@@ -147,10 +145,6 @@ button {
 	font-weight: var(--font-semibold);
 	color: var(--color-white);
 	z-index: 2;
-}
-
-button.openMenu img {
-	max-width: 20px;
 }
 
 section {
@@ -345,12 +339,9 @@ nav:last-of-type button:hover {
 	transform:translateY(0px); 
 }
 
-nav:last-of-type.openMenu button {
-	border: none;
-	background-color: var(--color-transpsrant);
-	background-image: none;
+nav:last-of-type.openMenu button img {
+	max-width: 25px;
 }
-
 
 
 /* ********* Als het linkjes worden ******** */
@@ -672,11 +663,9 @@ main.detailpagina section:nth-of-type(3) img {
 }
   
 main.detailpagina section:nth-of-type(2) ul li:hover img {
-	animation-name:character-bounce;
-	animation-duration:1.5s;
+	animation: var(--character-bounce);
 }
 /* Bron: https://codepen.io/shooft/pen/KKorGPa */
-
 
 
 /* FOOTER */

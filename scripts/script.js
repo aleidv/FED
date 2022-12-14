@@ -42,7 +42,7 @@ console.log(bodyEl);
 buttonEl.addEventListener("click", function() {
    navEl2.classList.toggle("openMenu");
    if(navEl2.classList.contains("openMenu")){
-      buttonEl.innerHTML = '<img src="./images/close.png" alt="sluit menu">'
+      buttonEl.innerHTML = '<img src="images/close.png" alt="sluit menu">'
    } else {
       buttonEl.innerHTML = 'Menu'
    }
