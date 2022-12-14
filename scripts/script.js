@@ -10,15 +10,11 @@ var marioAudio = new Audio('./audio/mario_lets_go.m4a');
 
 var myTimeout = setTimeout(timesUp, 40000);
 
-
-
 // TIMES RUNNING OUT SOUND
 function timesUp() {
   timesUpAudio.play();
  console.log("times is almost up!!");
 }
-
-
 
 // LOG IN / SIGN UP 
 var navAEl = document.querySelector("nav ul li:nth-of-type(2) a");
@@ -27,13 +23,6 @@ var navAEl = document.querySelector("nav ul li:nth-of-type(2) a");
  navAEl.addEventListener("click", function() {
     navAEl.classList.toggle("mijnJava");
  });
-
-
-
-
-
- 
-
 
 
 // MENU
