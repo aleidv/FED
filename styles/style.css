@@ -149,6 +149,10 @@ button {
 	z-index: 2;
 }
 
+button.openMenu img {
+	max-width: 20px;
+}
+
 section {
 	display: flex;
 	justify-content: center;
