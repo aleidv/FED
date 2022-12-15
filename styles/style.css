@@ -45,6 +45,10 @@ button, summary {
 	--character-bounce: character-bounce 1.5s ease;
 	/* Bron: Ymaro Blue */
 
+	/* background */
+	--gradient-background: repeating-linear-gradient(-45deg, #302f2f, #302f2f 6px, #2a2929 0, #2a2929 12px);
+	/* Bron: https://mario.nintendo.com */
+
 	/* transition */
 	--transition-01: .1;
 	--transition-02: .2;
@@ -54,11 +58,29 @@ button, summary {
 }
 
 
-/* @media (prefers-color-scheme:dark) { 
-	main.index {
-	--color-red:rgb(8, 8, 3); 
-	--color-white:hotpink; 
-	}} */
+/* LIGHT MODE */
+@media (prefers-color-scheme:light) { 
+	body {
+	--gradient-background: repeating-linear-gradient(-45deg, #f2f2f4, #f2f2f4 6px, #E6E6E6 0, #E6E6E6 12px);
+	}
+
+	nav:last-of-type {
+	--color-white: var(--color-black);
+	}
+
+	label {
+	color: var(--color-black);
+	--font-thin: var(--font-semibold);
+	}
+
+	time {
+		color: var(--color-black);
+	}
+
+	p {
+	color: var(--color-black);
+	}
+}
 
 
 /* REDUCED MOTION */
@@ -140,7 +162,7 @@ button {
 	z-index: 2;
 	padding: 0.8em 1.5em 0.8em 1.5em;
 
-	background-image: repeating-linear-gradient(-45deg, #302f2f, #302f2f 6px, #2a2929 0, #2a2929 12px);
+	background-image: var(--gradient-background);
 	border: solid 2px var(--color-white);
 	border-radius: 10px;
 
@@ -272,7 +294,7 @@ nav:last-of-type {
 	padding: 0.5em;
 	gap: 10px;
 
-	background-image:repeating-linear-gradient(-45deg, #302f2f, #302f2f 6px, #2a2929 0, #2a2929 12px)
+	background-image: var(--gradient-background);
 }
 
 label:first-of-type {
@@ -302,7 +324,7 @@ nav:last-of-type ul {
 	height: 90vh;
 	width: 100%;
 	
-	background-image: repeating-linear-gradient(-45deg, #302f2f, #302f2f 6px, #2a2929 0, #2a2929 12px);
+	background-image: var(--gradient-background);
 
 	transform: translate(-100%);
 	transition: var(--transition-05);
@@ -450,7 +472,7 @@ main.index section:nth-of-type(2) ul li {
 	padding: 1.5em 1.5em 3em 1.5em;
 	min-width: 15em;
 
-	background-image:repeating-linear-gradient(-45deg, #302f2f, #302f2f 6px, #2a2929 0, #2a2929 12px);
+	background-image: var(--gradient-background);
 	border-radius: 10px;
 }
 
@@ -539,7 +561,7 @@ main.detailpagina section:first-of-type ul li img {
 }
 
 main.detailpagina section:nth-of-type(2) {
-	background-image:repeating-linear-gradient(-45deg, #302f2f, #302f2f 6px, #2a2929 0, #2a2929 12px);
+	background-image: var(--gradient-background);
 }
 
 main.detailpagina section:nth-of-type(2) ul {
