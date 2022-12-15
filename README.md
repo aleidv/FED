@@ -300,7 +300,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
-  > Het is een browser dingetje maar het is niet gelukt om in safari de afbeelding op de juiste manier te laten zien.
+  > Het is een browser dingetje maar het is niet gelukt om in safari de afbeelding op de juiste manier te laten zien. (In Chrome wel)
 
   <img src="readme-images/niet_gelukt.png" width="375px" alt="bummer">
 </details>
@@ -315,7 +315,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>continu bijhouden terwijl je werkt</summary>
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
+  > https://mario.nintendo.com
   > https://fonts.google.com/
+  > https://dlo.mijnhva.nl/content/enforced/437099-FDMCI-2000FED121-DMCI-CMD-2223-1/FED%2022-23%20-%20Blok%202%20-%20Oefening%20typografie%20-%20custom%20properties.pdf */
   > https://www.w3schools.com/tags/att_input_type_checkbox.asp
+  > Ymaro Blue
 
 </details>

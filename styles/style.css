@@ -1,5 +1,6 @@
 /* Styles Document */
 @import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;400;500;600;800;900&display=swap');
+/* Bron: https://fonts.google.com/ */
 
 
 /* CSS REMEDY */
@@ -12,8 +13,8 @@ button, summary {
 }
 
 
-
 /* CUSTOM PROPERTIES */
+/* Bron: https://dlo.mijnhva.nl/content/enforced/437099-FDMCI-2000FED121-DMCI-CMD-2223-1/FED%2022-23%20-%20Blok%202%20-%20Oefening%20typografie%20-%20custom%20properties.pdf */
 :root {
 	
 	/* colors */
@@ -23,14 +24,12 @@ button, summary {
 	--color-deep-red: #c60313;
 	--color-white: #fff;
 	--color-black: #111;
-	--color-yellow: #ffdf02;
 	--color-hover-grey: #0000004d;
 	--color-transpsrant: #ffffff00;
-
 	--color-focus-yellow: #ffd324;
-	--mario-red: #e60012;
+	/* Bron: https://mario.nintendo.com */
 
-	/* font */
+	/* fonts */
 	--font-main: "Catamaran", sans-serif;
 	--font-base: 16px;
 	--font-thin: 100;
@@ -40,22 +39,19 @@ button, summary {
 	--font-bold: 800;
 	--font-black: 900;
 
-	
 	/* animaties */
 	--jump-animation: jump 1.5s ease;
 	--mario-ease: mario-ease 1.5s ease;
 	--character-bounce: character-bounce 1.5s ease;
+	/* Bron: Ymaro Blue */
 
+	/* transition */
+	--transition-01: .1;
+	--transition-02: .2;
+	--transition-03: .3;
+	--transition-04: .4;
+	--transition-05: .5s;
 }
-
-
-/* REDUCED MOTION */
-:root:has(#check:checked) {
-	--jump-animation: none;
-	--mario-ease: none;
-	--character-bounce: none;
-}
-/* Bron: Ymaro Blue */
 
 
 /* @media (prefers-color-scheme:dark) { 
@@ -63,6 +59,22 @@ button, summary {
 	--color-red:rgb(8, 8, 3); 
 	--color-white:hotpink; 
 	}} */
+
+
+/* REDUCED MOTION */
+:root:has(#check:checked) {
+	--jump-animation: none;
+	--mario-ease: none;
+	--character-bounce: none;
+	/* Bron: Ymaro Blue */
+
+	--transition-01: none;
+	--transition-02: none;
+	--transition-03: none;
+	--transition-04: none;
+	--transition-05: none;
+}
+
 
 /* ALGEMENE STYLING */
 html {
@@ -101,7 +113,6 @@ a {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: fit-content;
 	padding: 0.8em 1.5em 0.8em 1.5em;
 	gap: 10px;
 
@@ -109,7 +120,7 @@ a {
 	border: solid 2px var(--color-white);
 	border-radius: 30px;
 
-	font-size: 1em;
+	/* font-size: 1em; */
 	font-weight: var(--font-bold);
 	letter-spacing: 0.5px;
 	text-decoration: none;
@@ -175,12 +186,12 @@ main a:hover {
 	background-color: var(--color-dark-grey);
 	border: solid 2px var(--color-white);
 	color: var(--color-white);
-	transition: 0.1s;
+	transition: var(--transition-01);
 }
 
 main a:hover span {
 	transform: translate(0.5em);
-	transition: 0.2s;
+	transition: var(--transition-02);
 }
 
 main a:active {
@@ -238,7 +249,8 @@ nav:first-of-type ul li:nth-of-type(2) a:hover {
 	background-color: var(--color-hover-grey);
 	border-style: none;
 	border-radius: 5px;
-	transition: 0.4s;
+	transition: var(--transition-04);
+
 }
 
 a.mijnJava {
@@ -287,7 +299,7 @@ nav:last-of-type ul {
 	height: 90vh;
 	width: 100%;
 	transform: translate(-100%);
-	transition: .5s;
+	transition: var(--transition-05);
 }
 
 nav:last-of-type ul li {
@@ -307,7 +319,7 @@ nav:last-of-type ul li a:hover {
 	background-color: var(--color-red);
 	border: solid 2px var(--color-white);
 	border-radius: 5px;
-	transition: .3s;
+	transition: var(--transition-03);
 }
 
 nav:last-of-type ul li img {
@@ -326,7 +338,7 @@ body.overflow {
 
 nav:last-of-type.openMenu ul {
 	transform: translate(0%);
-	transition: .5s;
+	transition: var(--transition-05);
 }
 
 nav:last-of-type.openMenu button {
@@ -691,12 +703,12 @@ footer a:hover {
 	background-color: var(--color-white);
 	border: solid 2px var(--color-white);
 	color: var(--color-deep-red);
-	transition: 0.1s;
+	transition: var(--transition-01);
 }
 
 footer a:hover span {
 	transform: translate(0.5em);
-	transition: 0.2s;
+	transition: var(--transition-02);
 }
 
 footer a:active {
