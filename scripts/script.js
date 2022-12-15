@@ -7,7 +7,7 @@ var timesUpAudio = new Audio('./audio/times_up.m4a');
 var luigiAudio = new Audio('./audio/luigi_yahoh.m4a');
 var marioAudio = new Audio('./audio/mario_lets_go.m4a');
 
-var myTimeout = setTimeout(timesUp, 40000);
+var myTimeout = setTimeout(timesUp, 50000);
 
 // Roept timesUp audio aan en speelt geluid af
 function timesUp() {
