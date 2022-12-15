@@ -58,6 +58,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
   > Tijdens het onderzoek m.b.t. de screenreader kwam ik achter de volgende bevindingen:
@@ -94,7 +95,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   > Er zou gekeken kunnen worden naar een breder assortiment aan gestures voor trackpad om het navigeren gemakkelijker te maken.
   > Knoppen kunnen groter gemaakt worden zodat als je arm of vinger alle kanten op gaat het makkelijker wordt om er op te klikken.
   
-
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
@@ -202,6 +202,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
   > ...
 
+
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
   > Tijdens het onderzoek m.b.t. de screenreader kwam ik achter de volgende bevindingen:
@@ -213,6 +214,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
   > ...
 
+
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
   > Tijdens het onderzoek m.b.t. muis en toetsenbord kwam ik achter de volgende bevindingen: 
@@ -221,6 +223,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
   > ...
 
+
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
   > Tijdens het onderzoek m.b.t. motoriek kwam ik achter de volgende bevindingen:
@@ -228,6 +231,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
   > ...
+
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
@@ -251,6 +255,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
   > ...
+
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -283,16 +288,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
-  > ...
+  > Ik heb mega veel geleerd.
+  > 1 ding daarvan is een menu in JavaScript.
+  > 1 ander ding daarvan is animations laten springen (en geluid).
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/wel_gelukt.png" width="375px" alt="top">
+  <img src="readme-images/wel_gelukt_2.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
-  > ...
+  > Het is een browser dingetje maar het is niet gelukt om in safari de afbeelding op de juiste manier te laten zien.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/niet_gelukt.png" width="375px" alt="bummer">
 </details>
 
 
@@ -305,7 +313,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>continu bijhouden terwijl je werkt</summary>
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
-
   > https://fonts.google.com/
   > https://www.w3schools.com/tags/att_input_type_checkbox.asp
 
