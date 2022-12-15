@@ -81,7 +81,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   > Het navigeren via de tab op mijn website werkt goed. Het gaat van links naar rechts, van boven naar onder, en slaat niets belangrijks over.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-  > ...
+  > Ondanks dat ik de focus state goed vind zou deze evt. nog meer benadrukt kunnen worden.
 
 
   #### Motoriek (shocks, elastiekjes)
@@ -169,7 +169,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-  > ...
+  > Het begrijpen van de code gaat nog steeds goed, het toepassen gaat ook steeds beter. De 2 navigatie balken zijn helemaal goed gestyled. Alleen de checkbox nog.
 
 
   ### Agenda voor meeting
@@ -253,22 +253,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-  > ...
+  > Er is al heel veel gelukt.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  > | Noah           | Isa         | Aleid          | Sam             |
-  > | ---            | ---         | ---            | ---             |
-  > | ...            | ...         | ...            | ...             |
-  > | ...            | ...         | ...            |                 |
-  > | ...            |             | ...            |                 |
+  > | Noah           | Isa                  | Aleid             | Sam             
+  > | ---            | ---                  | ---               | ---             
+  > | dit bespreken  | en dit               | Animatie  
+  > | en dat ook nog | dit als er tijd is   | Menu met checkbox           
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-  > ...
+  > Ik heb mijn animatie geperfectioneerd en het menu met een checkbox ga ik weg halen. Ik ga in plaats hiervan een menu met JavaScript maken.
 
 </details>
 
@@ -318,6 +317,5 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   > https://www.w3schools.com/tags/att_input_type_checkbox.asp
   > https://codepen.io/shooft/pen/KKorGPa
   > https://css-tricks.com/making-css-animations-feel-natural/
-  > Ymaro Blue
 
 </details>
