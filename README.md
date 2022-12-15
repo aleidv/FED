@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://mario.nintendo.com
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Home pagina
   <img src="readme-images/home_pagina.jpg" width="375px" alt="home pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Character pagina  
   <img src="readme-images/characters_pagina.jpg" width="375px" alt="character pagina">
  
 </details>
@@ -60,7 +60,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  
   > Tijdens het onderzoek m.b.t. de screenreader kwam ik achter de volgende bevindingen:
   > Dat de screenreader al snel voor chaos en paniek zorgt. 
   > Op Safari werkt de combinatie van tab en voice over met mijn website niet. Op Google Chrome wel.
@@ -74,18 +73,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  
   > Tijdens het onderzoek m.b.t. muis en toetsenbord kwam ik achter de volgende bevindingen:
   > De focus state met tab werkt heel erg goed. De website maakt gebruik van een zwarte en gele border waardoor er een goed contrast ontstaat.
   > Het navigeren via de tab op mijn website werkt goed. Het gaat van links naar rechts, van boven naar onder, en slaat niets belangrijks over.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-  ...
+  > ...
 
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  
   > Tijdens het onderzoek m.b.t. motoriek kwam ik achter de volgende bevindingen:
   > Met twee vingers die niet goed werken (elastiekjes) kwam ik er achter dat je een telefoon alsnog gemakkelijk kan bedienen.
   > Een toetsenbord en vooral een trackpad bedienen werkt net wat vervelender.
@@ -101,13 +98,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  
-  >Tijdens het onderzoek m.b.t. visual kwam ik achter de volgende bevindingen:
+  > Tijdens het onderzoek m.b.t. visual kwam ik achter de volgende bevindingen:
   > Met de vlekkerige bril: door de velle kleuren combinatie van mijn website kon ik de inhoud nog goed zien.
   > Met de kleurenblind bril: er worden veel kleuren op de website getoond, met de bril op worden de kleuren minder maar er is nog steeds veel onderscheid te zien.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-  ...
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen
+  > ...
   
   <img src="readme-images/visual_test.png" width="375px" alt="visual test">
 
@@ -141,7 +137,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  > Het begrijpen van de code vind ik goed gaan, maar het toepassen gaat lastiger dan gedacht. 
+  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  > Het begrijpen van de code vind ik goed gaan, het toepassen gaat lastiger dan gedacht. 
 
 
   ### Agenda voor meeting
@@ -156,7 +153,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-  
   > Position veranderen naar Flexbox en margin negatief.
   > Onzichtbare border toegevoegd
   > Foutmeldingen van de <button> opgelost
@@ -174,6 +170,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  > ...
 
 
   ### Agenda voor meeting
@@ -187,7 +184,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-
   > Snel gelukt om een afbeelding op de achtergond te laten herhalen.
   > Checkbox is ook gelukt zonder label nog.
 
@@ -204,10 +200,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  > ...
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  
   > Tijdens het onderzoek m.b.t. de screenreader kwam ik achter de volgende bevindingen:
   > Op Safari werkt de combinatie van tab en voice over met mijn website niet. Op Google Chrome wel.
   > De linkjes zijn kort en bondig
@@ -215,34 +211,31 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   > De screenreader benoemd de inhoud via de tab of via de muis goed.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  > ...
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  
-  > Tijdens het onderzoek m.b.t. muis en toetsenbord kwam ik achter de volgende bevindingen:
-  paniek zorgt. M.b.t. mijn website kwam ik achter de volgende bevindingen:
+  > Tijdens het onderzoek m.b.t. muis en toetsenbord kwam ik achter de volgende bevindingen: 
   > Met het toestenbord de website bedienen d.m.v. spatie balk en enter werkt goed. De linkjes werken en de checkbox kan worden aangechecked.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-  
+  > ...
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  
   > Tijdens het onderzoek m.b.t. motoriek kwam ik achter de volgende bevindingen:
   > Er is ruimte om priegel elementjes aan te klikken.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  > ...
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  
   > Tijdens het onderzoek m.b.t. visual kwam ik achter de volgende bevindingen: 
   > Buttons en kleuren worden goed herkend met verschillende brillen op.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  > ...
 
 </details>
 
@@ -257,25 +250,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  > ...
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  > | Noah           | Isa         | Aleid          | Sam             |
+  > | ---            | ---         | ---            | ---             |
+  > | ...            | ...         | ...            | ...             |
+  > | ...            | ...         | ...            |                 |
+  > | ...            |             | ...            |                 |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  > ...
 
 </details>
 
@@ -294,12 +283,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
+  > ...
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
+  > ...
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
