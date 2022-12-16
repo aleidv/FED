@@ -95,6 +95,7 @@ if(luigiImgEl2){
 }
 
 var marioImgEl2 = document.querySelector("main.detailpagina section:first-of-type ul li:nth-of-type(2) img");
+
 if(marioImgEl2){
    marioImgEl2.addEventListener("click", function() {
       marioImgEl2.classList.toggle("jump");
