@@ -105,7 +105,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   > Met de kleurenblind bril: er worden veel kleuren op de website getoond, met de bril op worden de kleuren minder maar er is nog steeds veel onderscheid te zien.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen
-  > ...
   
   <img src="readme-images/visual_test.png" width="375px" alt="visual test">
 
@@ -199,19 +198,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-  > ...
 
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
   > Tijdens het onderzoek m.b.t. de screenreader kwam ik achter de volgende bevindingen:
   > Op Safari werkt de combinatie van tab en voice over met mijn website niet. Op Google Chrome wel.
-  > De linkjes zijn kort en bondig
-  > De links laten geen inrelevante inforamtie zien
+  > De linkjes zijn kort en bondig. Dit heb ik verbeterd.
+  > De links laten geen inrelevante inforamtie zien. Dit heb ik verbeterd.
   > De screenreader benoemd de inhoud via de tab of via de muis goed.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-  > ...
 
 
   #### Muis en Toetsenbord 
@@ -220,16 +217,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   > Met het toestenbord de website bedienen d.m.v. spatie balk en enter werkt goed. De linkjes werken en de checkbox kan worden aangechecked.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-  > ...
 
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
   > Tijdens het onderzoek m.b.t. motoriek kwam ik achter de volgende bevindingen:
-  > Er is ruimte om priegel elementjes aan te klikken.
+  > Er is ruimte om priegel elementjes aan te klikken. 
+  > De checkbox kan worden aangechecked doordat je op de checkbox maar ook op het label kan klikken.
+  > De buttons zijn groot genoeg om aangeklikt te kunnen worden.
+  > De plaatjes zijn ook groot genoeg om aangeklikt te kunnen worden, om animaties af te spelen.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-  > ...
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
@@ -238,7 +236,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   > Buttons en kleuren worden goed herkend met verschillende brillen op.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-  > ...
 
 </details>
 
@@ -253,16 +250,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-  > Er is al heel veel gelukt.
+  > Het is lastig om niet in de war te raken na zoveel geschreven code om dan nog aanpassingen te moeten maken in de HTML en deze elementen te stijlen. Zoals <p>'tjes die beter <a>'tjes moeten worden, of van <button>'s naar <a>'tjes en dan toch weer terug in <button>'s. Het menu stijlen twerijl het een checkbox is, is lastig. Verder is er al heel veel gelukt. 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  > | Noah           | Isa                  | Aleid             | Sam             
-  > | ---            | ---                  | ---               | ---             
-  > | dit bespreken  | en dit               | Animatie  
-  > | en dat ook nog | dit als er tijd is   | Menu met checkbox           
+  > | Noah           | Isa                  | Aleid              | Sam             
+  > | ---            | ---                  | ---                | ---             
+  > | dit bespreken  | en dit               | Animatie           | en dit
+  > | en dat ook nog | dit als er tijd is   | Menu met checkbox  | en dat ook nog          
 
 
   ### Verslag van meeting
@@ -313,7 +310,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
   > https://mario.nintendo.com
   > https://fonts.google.com/
-  > https://dlo.mijnhva.nl/content/enforced/437099-FDMCI-2000FED121-DMCI-CMD-2223-1/FED%2022-23%20-%20Blok%202%20-%20Oefening%20typografie%20-%20custom%20properties.pdf */
+  > https://dlo.mijnhva.nl/content/enforced/437099-FDMCI-2000FED121-DMCI-CMD-2223-1 FED%2022-23%20-%20Blok%202%20-%20Oefening%20typografie%20-%20custom%20properties.pdf */
   > https://www.w3schools.com/tags/att_input_type_checkbox.asp
   > https://codepen.io/shooft/pen/KKorGPa
   > https://css-tricks.com/making-css-animations-feel-natural/
