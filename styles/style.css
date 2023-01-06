@@ -450,7 +450,7 @@ main.index section:first-of-type img:last-of-type {
 	bottom: 0;
 	max-width: 100%;
 
-	transform: rotate(180deg);
+	/* transform: rotate(180deg); */
 }
 
 main.index section:nth-of-type(2) {
