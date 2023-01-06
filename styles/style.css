@@ -449,8 +449,6 @@ main.index section:first-of-type img:last-of-type {
 	position: absolute;
 	bottom: 0;
 	max-width: 100%;
-
-	/* transform: rotate(180deg); */
 }
 
 main.index section:nth-of-type(2) {
